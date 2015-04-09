@@ -1,0 +1,22 @@
+.list-nav {
+	list-style: none;
+	display: inline-block;
+	text-decoration: none;
+}
+.list-nav .item-list-nav{
+	display: inline-block;
+	text-align:center;
+	font-size: 16px;
+	margin-left: 10px;
+	vertical-align: top;
+	text-decoration: none;
+}
+.item-list-nav:hover{
+	background:#47c1c6;
+	width:20%;
+	height:30px;
+	text-decoration: none;
+}
+.link-nav-header{
+	color:white;
+}
